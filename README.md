@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-- An Engineer!
 - Do Devops stuff! 🔭
 - Prefer deploying on kubernetes!! ⚡
 - Love developing devops tools using Go!! 🌱
