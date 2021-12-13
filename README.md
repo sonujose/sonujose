@@ -1,6 +1,6 @@
 ### Hi there 👋
-- Devops stuff | Prefer deploying on kubernetes ⚡
-- Love developing devops tools using Go!! 🌱
+- Devops stuff  ||  Prefer deploying on kubernetes ⚡
+- Love developing devops tools using Go 🌱
 <!--
 **sonujose/sonujose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
