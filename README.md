@@ -1,5 +1,6 @@
-### Hi there 👋
-- Devops stuff
+### Hey folks 👋
+
+I'm Sonu and i'm software Developer / Devops Engineer with more then 7 years experience. 
 - Prefer deploying on kubernetes ⚡
 - Love developing devops tools using Go 🌱
 <!--
