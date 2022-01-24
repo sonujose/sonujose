@@ -1,4 +1,4 @@
-### Hey folks 👋
+### Hey 👋
 
 I'm Sonu and i'm software Developer / Devops Engineer with great passion for cloud native application deployment and management. 
 
