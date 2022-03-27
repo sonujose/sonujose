@@ -2,7 +2,8 @@
 
 I'm Sonu and i'm software Developer / Devops Engineer with great passion for cloud native application deployment and management. 
 
-I mostly work on Kubenetes deployment, ci-cd pipelines and devops toolings using Go and Cloud-Native technologies.🚀 I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Istio, Kafka, Cloudflare, Terraform, Azure, Azure DevOps etc. and proficient with metric collection & monitoring tools such as Grafana, Prometheus etc..
+I mostly work on Kubenetes deployment, ci-cd pipelines and devops toolings using Go and Cloud-Native technologies.🚀 Build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Istio, Kafka, Cloudflare, Terraform, Azure, Azure DevOps etc.
+More fascinated about k8s internals Experience in creating and managing custom controllers and operator for extending devops capability. Proficient with metric collection & monitoring tools such as Grafana, Prometheus etc..
 
 <!--
 **sonujose/sonujose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
