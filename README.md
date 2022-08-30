@@ -1,5 +1,7 @@
 ### Hey 👋
 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sonujose)](https://github.com/anuraghazra/github-readme-stats)
 I'm software Developer / Devops Engineer with great passion for cloud native application deployment and management. 
 
 I mostly work on Kubenetes deployment, ci-cd pipelines and devops toolings using Go and Cloud-Native technologies.🚀 Build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Istio, Kafka, Cloudflare, Terraform, Azure, Azure DevOps etc.
