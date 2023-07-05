@@ -1,8 +1,7 @@
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sonujose)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
+[[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sonujose)](https://github.com/anuraghazra/github-readme-stats)](url)
+
 Devops Engineer with great passion for cloud native application deployment and management. 
 
 
